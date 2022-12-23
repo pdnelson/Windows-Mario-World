@@ -1,0 +1,117 @@
+;Yoshi's Island - Fort/Castle
+;Ported by Jimmy52905
+
+$ED $80 $6D $2B 
+$ED $80 $7D $00 
+$F0
+
+ 
+#0 t68
+
+$EF $00 $00 $00
+$F1 $03 $63 $01
+v0c4
+$EF $3D $00 $00
+$F2 $D8 $28 $28
+
+@0 q7f v245 y10 w230  l8
+o3
+r4
+{c2c+d+c4c+4e4g4a+4>c1c16c+16c<a+>c1^8e4g4c16}
+c+c<b>cc+c<a+
+{g4^16}
+e4c+4
+{<a+4^16}
+>c+
+{c1^2^4^16}
+[r1]6
+>
+/
+p0,0
+@1
+[c4d+rgrf+4ar4^a+4^>c<a+ag4dr4^f4g+r>cr<b4>dr4^d+4^fd+dc4<br4^]2
+@0
+[c4^<g+f+g+16r16g2^4>]2
+f4^dcd16r16<b2^4>g+4^fd+f16r16d4b1^4
+[r1]9
+@2
+p4,14
+f+4g4a+4a4g+4a+4a2^4f+2a4g+2f4e2>c+4c2^4<g+2^4;
+
+#1 r4 @12 q7f v230 y3 l16
+
+o4
+r2
+{ggggggdrgrdrgr8^gr8^gr4dr4^gr4^gr2dr8ggr4}r1^2{dr8gr8drgrgrgrdrgrgrgrdr8gr8^gr4g8}
+r8{r8}r2^4
+[r1]6
+/
+[r1]15
+@0
+[c4^8<g+8f+8g+r]1
+g2^4>
+<*g4>f1^4
+[r1]15;
+
+#2 r4 @1 q7f v230 y10 l8
+
+o3
+[r1]6
+r2^^
+[r4grgr4^a4^r4^a+ra+r4^a4^r]2
+/
+[r4grgr4^a4^r4^a+ra+r4^a4^r4^>crcr4^d4^r4^d+rd+r4^f4^r<]2
+>
+r4
+[d+rd+r4^d4^r4^]3
+d+rd+r4^d1^4
+[r1]3
+r4<
+[arar4^a+4^r4^brbr4^a+4^r4^]4;
+
+#3 r4 @1 q7f v230 y10 l8
+
+o3
+[r1]6
+r2^^
+[r4d+rd+r4^f+4^r4^grgr4^f+4^r]2
+/
+[r4d+rd+r4^f+4^r4^grgr4^f+4^r4^g+rg+r4^b4^r4^>crcr4^<b4^r]2
+>
+r4
+[crcr4^<b4^r4^>]3
+crcr4^<b1^4
+[r1]3
+r4
+[d+rd+r4^e4^r4^frfr4^e4^r4^]4;
+
+#4 r4 @3 q7f v245 y10 l32
+
+o2
+[r1]12
+r2^4
+/
+r4
+[r1]12
+r2
+[gr16^>dr16^dr16^gr16^gr16^>dr2^4^16^o2]2
+br16^>fr16^fr16^br16^br16^>fr2^4^16^<fr16^br16^br16^>fr16^fr16^br16^
+
+br8^16^g+r8^16^
+{f16r8^16d16r8^16f16r8d16r8<b16r8g+16r8>d16r16<b16r16g+16r16f16r16b16r16g+16r16f16r16d16r16}
+g+rfrdr<br>frdr<brg+r>dr<brg+rfrbrg+rfrd
+
+
+[r1]12
+r2^4;
+
+#5 r4 @1 q7f v255 y17 l2
+
+o2
+c1^1^1c1^1^1^^8^16^32r32
+[c^4d^8^16r16d+^4d^8^16r16]2
+/
+[c^4d^8^16r16d+^4d^8^16r16f^4g^8^16r16g+^4g^8^16r16]2
+[g+^4g^8^16r16]2
+g+^4g^4g+^4g1^r1^1^4<b^4>
+[c^4g^8^16r16]8;

@@ -1,0 +1,99 @@
+;-- HEADER AUTOMATICALLY GENERATED --
+$ED $80 $6D $2B 
+$ED $80 $7D $00 
+$F0
+;-- END OF HEADER -------------------
+
+;Go, Go, Power Rangers!
+;SPC file made from scratch by Blue Warrior. Please give credit if used.
+
+#0				w255	t79
+
+#0	@17		q7f	v160	y10
+#1			q7f	v230	y10
+#2	@8		q7f	v255	y10
+#3			q7f			y10
+#4	@17		q7f v180	y10
+#5	@1		q7f v210	y10
+#6	@9		q7f v180	y10
+#7	@1		q7f	v180	y10
+
+#0
+o3
+[e16r16e16r16>e8<e16r16e16r16>e8<e16r16e16r16>e8<e16r16e16r16>e8<e16r16>e4f8]4
+c1d1c-1e2d2c1^1<b1^1
+/
+[e16r16e16r16>e8<e16r16e16r16>e8<e16r16e16r16>e8<e16r16e16r16>e8<e16r16e16r16>e8<e16r16
+c16r16c16r16>c8<c16r16c16r16>c8<c16r16c16r16>d8<d16r16d16r16>d8<d16r16d16r16>d8<d16r16]2
+[e+16r16e+16r16>e+8<]4[e+16r16]2>e+1[<e+16r16>e+4]3<e+16r16
+[e16r16>e8e8<e16r16>e8<e16r16>e8<e16r16
+e16r16>e8<e16r16e16r16>e8<e16r16>e8<e16r16]2
+>e4f4f+4g4g+4a4a+4b4
+
+#1
+o3
+r4[@26c2]5@26c4[@29e8@21c8]4
+[@21c8@21c8@29e8@21c8]20
+v170@26[{c8}]21v230@29e4
+/
+[@21c8@21c8@29e8@21c8]22
+[@29e8@21c8]4
+@29[e2^4^8@29e8]2[e4^8@29e8]4[e8]16
+
+#2
+o2
+[r4e4]6>e8d8<b8>d8<b8a8g8a8
+[e4r4e4r4e4r4g8e8g8a8]2
+[c8c8<g8>c8]2[d8d8<a8>d8]2<[b8b8f+8b8]2>e8e8c-8e8d8d8<a8>d8
+[c8c8<g8>c8]4c-1r1
+/
+[e8e8b8e8]4[c8c8g8c8]2[d8d8a8d8]2
+[e8e8b8e8]4[c8c8g8c8]2[d8d8a8d8]2
+[e+8e+8>e+8<e+8]4>e+8<e+8>e8<e+8>d8<e+8>c8<e+8>d8<e+8b+8e+8b8e+8a8e+8
+[e2^4^8d8]2[e4^8d8]4e8e8f8f8[f+8]2g8g8[g+8]2a8a8[a+8]2b8b8
+
+#3
+o5
+r1[^1]7
+v130@17
+[g16e16c16e16]4[a16f+16d16f+16]4[b16f+16d+16f+16]4[b16g16e16g16]4[b+16g16e16g16]8b1^1
+v90@4
+/
+[r4e4^8b4^8a4^8f+4^8g4r4e4^8b4^8a4^8g4^8f+4]2
+a1^1^1^1
+r1[^1]5
+
+#4
+o3
+[r4b8r4b8r4b8r4b8r8b4b+8]4
+g1a1f+1b2a2g1^1f+1^1
+/
+[r4b8r4b8r4b8r4b8r4b8r4^8g8r4g8r4a8r4a8r4a8r8]2
+>[r4c8]4r4c1[r8c4]3r8
+<[r8b8b8r8b8r8b8r8
+r8b8r4b8r8b8r8]2
+e4f4f+4g4g+4a4a+4b4
+
+#5
+o5
+r1[^1]15
+/
+[e8r8e8r8d8e8r8g8r8e2r^1^1^4]2
+f8r8f8r8f8f8r8f8r8f2r^4
+f8[f8r8]5g8r8f4e^4^8r1[^2]9^4
+
+#6
+o5
+r1[^1]15
+/
+[e8r8e8r8d8e8r8g8r8e2r^1^1^4]2
+f8r8f8r8f8f8r8f8r8f2r^4
+f8[f8r8]5g8r8f4e^4^8r1[^2]9^4
+
+#7
+o5
+r1[^1]15
+/
+[g8r8g8r8f+8g8r8b8r8g2r^1^1^4]2
+a8r8a8r8a8a8r8a8r8a2r^4
+a8[a8r8]5b8r8a4g^4^8r1[^2]9^4

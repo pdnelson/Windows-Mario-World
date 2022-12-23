@@ -1,0 +1,259 @@
+$ED $80 $6D $2B 
+$ED $80 $7D $00 
+$F0
+
+t48 r8/
+$EF $FF $D0 $30		;Echo
+$F1 $01 $D0 $00		;Echo
+
+;Magic Man - Mega Man & Bass
+;Insert size: 1838 bytes
+;# of channels: 8
+;Addmusic Compatibility: AM4
+;Sample Bank/.brrs Required?: No
+;Header Type: Level
+;Ported by Maxodex
+;Please give credit on this one, looping it was a pain D:
+
+w192 t50
+
+
+#0 y10
+
+(9)[q7f @1 $ED $7F $ED v255 o5 $E6
+d4r8d16d16d4r8d16d16
+q1f d8c8<b8a8g8f+8e8d+8 q7f]
+@0 $ED $7A $A9 v222 $E5 $0F $15 $A5
+(3)[d4.d16r16g4f+16r16g16r16
+a2. q1f d8d8
+q5f b4.b8> q7f c8<b8a8g+8
+b2a4 q1f a8a8 q7f
+a4.a8b8a8g8f+8
+a2g8g8f+8f8
+e4e4f+4g4
+b2a8r8<b8>c8
+d4. d16r16g4 q1f f+8g8 q7f
+a2d2
+q5f b4. q7f b8>c8<b8a8g+8
+b2a4 q1f a8a8 q7f
+a4.a8b8a8g8f+8
+a4g4>e4<g8f+8
+e4e4f+4d4]
+g1 $E6
+(9)
+@0 $ED $7A $A9 v222 $E5 $0F $15 $A5
+(3)
+g=120 $E6
+@4 $ED $7F $AD v165 $DE $0E $11 $38
+q1f g8a8a+8
+(4)[q5f b4. q7f b16>c16<b8 q1f a8g8f+8 q5f a4.]
+q1f g8 q5f g4. q1f g8
+(4) q1f b8 q5f g4. q1f e8
+q5f a4.q1f a8a8 g8f+8e8
+q5f g4. q1f f+8 q5f f+4. q7f f+16
+g16 q1f a4a4 q4f b4>c+4 $DF
+(9)
+@0 $ED $7A $A9 v229 $E5 $0F $15 $A5
+(3)<
+g1
+
+
+#3 r8/ @8 $ED $7F $EC v255 y10 l4
+
+(10)[o2d.r8d.r8
+d2r8e8f8f+8
+gdgd8g8
+f+df+d
+fce<b
+>aeag
+f+c<b>d+
+e<b>e<b
+a>e<a>e
+d<a^16r16> q1f c8<b8a8 q7f
+>gdgd8g8
+f+df+d
+ffe<b
+a>eag
+f+c<b>d+
+e<b>e<g8g+8
+a>ed<a
+>gd^16r16] (11)[d8e8f+8]
+(10) g8a8a+8
+bf+<b>f+
+(12)[e<b>e<a8a+8]
+b>f+<b>c+8d+8
+(12)
+<a>eae
+d<a>d<a
+a>ea<a
+(10) (11)
+
+
+#6 r8/ @16 v210 y10 l8
+
+(13)[o5 q5f c4.c16c16e4.e16e16
+q7f d4^r4f+f+4
+rgrgrgrg
+rararara
+rararg+rg+
+rararara
+rererd+rd+
+rgrgrgrg
+rgrgrgrg
+rgrgrgrg
+rgrgrgrg
+rararara
+r>drdr<g+rg+
+rarara4a
+rererd+rd+
+rgrgrg4g
+rgrgrf+rf+
+rgrgrgrg]
+(13)
+[rbrbrbrb
+rgrgrg4g]2
+rararara
+[rarara4a]2
+(13)
+
+
+#1 r8/ @1 y10
+
+o4 v235
+(7)[$ED $7D $AD q7f g4r8g16g16>c4r8c16c16
+<a2r8q1f g8g+8a8] [r1]4 r4>
+(8)[$ED $5A $4E
+e4d+2
+d1
+c+1
+c1
+r2<a1.
+>d2e1.<
+r4e4f4f+4
+f+4e4<b4g4
+>c+2c2]
+<b1>
+(7) q7f [r1]4 r4
+(8)
+<b2^8
+v255 $ED $7D $ED
+q4f b8>c8c+8
+d+4^16r16d+16e16d+4.d+16r16
+f+4^16r16e16r16e4.r8
+d+4d+16r16d+16e16 d+8.r16 q1f e8f+8 q7f
+f+4^16r16 q1f g8e8 q7f e8d+8d8
+c+4^16r16c+16r16c+8.r16 q1f d8e8 q7f
+e4^16r16d16r16d4^16r16d8
+c+4c+4 d4e4
+v220 (7) q7f r4
+d4g4b4
+>d2<a2
+>d4^16r16d16r16e8d8c8<b8
+>d2c4 q1f c8c8 q7f
+c4^16r16c16r16d8c8<b8a8
+>c2<b2
+[a8.r16]2 >e8.r16<a4
+>e2 q1f d8c8<b8 q7f a16r=132
+(17)[d16d16g16r16d8]
+a2r8 (17)
+g4g4>q1f e8d8c8<b8 q7f
+>d2c2<
+(18)[r8a16a16] >e8<a8r8b16b16>d+8<b8
+(18) >d8<q1f a8b8a8g8 q7f f+16r8.
+e16e16 b8e8r8e16e16 a8d8
+r8d16d16 g16r16d8g2
+
+
+#5 r8/ v235 y10 l8
+
+o4 (1)[@21c@29c]14 (2)[@21c@29c16@29c16@21c@29c]1
+(1)14 (2)
+(1)14 (2)
+(1)14 (2)
+(1)22 (2)
+(1)14 (2)
+(1)14 (2)
+(1)14 (2)
+(1)10 (2)
+(1)14 (2)
+(1)22 (2)
+(1)14 (2)
+(1)14 (2)
+(1)14 (2)
+(1)8
+
+
+#2 r8/ y10
+
+@1 v245 $ED $5A $4E
+(5)[q3f d4. q7f d16d16 q3f d4. q7f d16d16
+d2 q1f d8d8d8d8 q7f] [r1]8 r4
+(6)[o3b2g4
+f+2>d2
+g2g+2
+>d2c2
+r4e4f4f+4
+f+4e4<b4g4
+r4b2a+4a1]
+(5) [r1]8 r4 (6)
+[r1]7 q7f
+(5) r32
+@0 $ED $7A $A9 v150 (3)
+<g2....r8
+
+
+#4 r8/ y10
+
+[r1]2 r32
+@0 $ED $7A $A9
+v150 (3)
+g1
+[r1]2
+(3)
+g2r8
+[r1]9 r4^16.
+@1 $ED $7D $CD v200 >
+(16)[d=108 r8.<b16r8>] c16
+(16) d16
+g4^16r16g16r16g+8f8e8d8
+f2e4.e16r8.
+e16e16 a8e8r8d+16d+16 a8d+8
+r8d16d16 g8d8g16r16d8g8d8
+c+4g4>c+4e4
+g2 q1f f+8e8d8c4
+d16d16 g8 q7f d8g2^8
+d16d16 a16r16d8a2^8
+d16d=60 q1f g+8f8e8d8 q7f
+f2e4.r4
+e16e16 a8e8r8 d+16d+16 a8d+8
+r8d16d16 g8d8g16r16d8<b8a8
+r4.<a8r8a16a16 >d8<a8
+r8g16g16 >q1f d8<g8> q7f d2
+
+
+#7 r8/ @16 v210 y10 l8
+
+(14)[o5 q5f e4.e16e16g4.g16g16 q7f
+f+4.r4aaa
+<rbrbrbrb
+>rdrdrdrd
+rdrdrdrd
+rcrcrcrc
+r<ararara
+rbrbrbrb
+r>c+rc+rc+rc+
+rcrcrcrc
+r<brbrbrb
+r>drdrdrd
+rfrfrere
+rcrcrc4c
+r<ararara
+rbrbrb4b
+r>c+rc+rcrc
+r<brbrbrb]2 >
+[rd+rd+rd+rd+
+rerere4e]2
+(15)[rc+rc+rc+rc+]
+rdrdrd4d
+(15)
+(14)

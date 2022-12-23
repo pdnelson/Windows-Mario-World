@@ -1,0 +1,235 @@
+; **************************************************************
+; Super Mario RPG - Beware the Forest's Mushrooms
+; ported by imamelia
+; This is the music from Forest Maze in Super Mario RPG.
+; This version is sampled.
+;
+; Insert size: 2115 bytes
+; Number of channels: 8
+; Total song length: 0:56
+; Loop length: 0:56
+; MORE.bin: HuFlungDu's
+; Samples: Yes ($E5/.bnk)
+; ************************************************************
+
+w230 t38
+
+$ED $80 $2D $00
+$ED $80 $6D $1D
+$ED $80 $7D $00
+$F0
+$ED $82 $61 $36 $00 $22
+$14 $FF $F2 $00 $04
+$15 $FF $F7 $00 $04
+$16 $FF $E0 $00 $03
+$17 $FF $E0 $00 $04
+$18 $FF $E0 $00 $04
+$19 $DF $53 $00 $05
+$1A $FF $E0 $00 $05
+
+;#0	@0	q7F v235 y10 $E5 $96 $04 $ED $81 $FB $ED $7F $E0
+;#1	@0	q7F v200 y10 $E5 $98 $04 $ED $81 $02 $ED $7F $E0
+;#2	@0	q7F v160 y7 $E5 $98 $04 $ED $81 $02 $ED $7F $E0
+;#3	@0	q7F v160 y13 $E5 $98 $04 $ED $81 $02 $ED $7F $E0
+;#4	@0	q7F v245 y10 $E5 $94 $04 $ED $7F $F2
+;#5	@0	q7F v235 y10 $E5 $99 $05 $ED $5F $53 $ED $81 $FF $EE $58
+;#6	@0	q7F v235 y10 $E5 $9A $04 $ED $81 $02 $ED $7F $E0
+;#7	@0	q7F v235 y10 $E5 $95 $04 $ED $7F $F7
+
+; ************************************************************
+; Channel info:
+; ************************************************************
+;
+; 0 - harmonica melody, harmony, chord
+; 1 - string melody, chord
+; 2 - string countermelody
+; 3 - string harmony
+; 4 - alternating notes (strum, pluck)
+; 5 - glockenspiel melody
+; 6 - bassoon
+; 7 - pizzicato strings
+;
+; ************************************************************
+
+#0	$DA $15	q7F v245 y10
+#1	$DA $17	q7F v200 y10
+#2	$DA $17	q7F v144 y7
+#3	$DA $17	q7F v144 y13
+#4	$DA $13	q7F v245 y10
+#5	$DA $18	q7F v210 y10
+#6	$DA $19	q7F v210 y10
+#7	$DA $14	q7F v240 y10
+
+; C-sharp minor
+#0 o4 l32
+
+$EF $00 $00 $00
+$F1 $07 $28 $00
+v0c8
+$EF $FF $10 $10
+$ED $80 $0F $7F
+$ED $80 $1F $00
+$ED $80 $2F $00
+$ED $80 $3F $00
+$ED $80 $4F $00
+$ED $80 $5F $00
+$ED $80 $6F $00
+$ED $80 $7F $00
+v250
+/
+c+16d+rerf+rg+16r16>c+16r16<b16r16g+16r16a+=4b=4a+=40
+b16r16g+ra+rb16r16a+rf+rd+16r16e16r16d+=4e=4d+=28r16
+c+16d+rerf+re16r16d+rerf+8e=4f+=4e=4d+rc+8.r16
+f+16r16erd+rc+16r16d+rerf+16r16e=4f+=4e=4f+rg+8.r16<
+g+16br>c+rd+re16r16g+16r16g+16r16e16r16f+=4g+=4f+=40
+g+16r16erf+rg+16r16f+rc+r<a+16r16b16r16b=4>c+=4<b=40
+a16br>c+rd+rc+16r16<b+r>c+rd+8c+=4d+=4c+=4<bra4
+b16r16arg+rf+16r16g+rarb16r16a=4b=4a=4br>c+8
+$DA $16 $DE $00 $0C $10 v160 g+rg+rg+1f+2 $E8 $60 $8C ^2 [r4]7 v245
+$DA $15 $DF >c+16<brarg+r
+f+16g+rarbr>c+16r16f+16r16e16r16c+16r16d+=4e=4d+=40
+e16r16c+rd+re16r16d+r<brg+16r16a16r16g+=4a=4g+=28r16
+f+16g+rarbra16r16g+rarb8a=4b=4a=4g+rf+8.r16
+b16r16arg+rf+16r16g+rarb16r16a=4b=4a=4br>c+8.r16<<
+$DA $16
+f+16g+rarbr>c+16r16f+16r16a8g+rf+re16r16c+16r16
+f+8erdrc+16r16<b16r16a8g+8a8b8>
+$DA $15
+f+16g+rarbr>c+16r16f+16r16a8g+rf+re16r16c+16r16
+f+8erdrc+16r16<b16r16a8g+8a8b8
+a+4 $DE $60 $0C $10 >c+1.< $DF g+16f+rerd+r
+
+; ************************************************************
+
+#1 o5 l32
+
+r8/ $DA $17 $ED $81 $02 $EE $23
+[r1]4
+c+16d+rerf+rg+16r16>c+16r16<b16r16g+16r16a+=4b=4a+=40
+b16r16g+ra+rb16r16a+rf+rd+16r16e16r16d+=4e=4d+=28r16
+c+16d+rerf+re16r16d+rerf+8erd+rc+8.r16
+f+16r16erd+rc+16r16d+rerf+16r16erf+rg+8
+$DA $16 $ED $81 $00 $EE $00 $DE $00 $0C $10 v160 c+rc+rc+1<b2 $E8 $60 $8C ^2 [r4]7 v200
+$DA $17 $ED $81 $02 $EE $23 >c+16<brarg+r
+f+16g+rarbr>c+16r16f+16r16e16r16c+16r16d+=4e=4d+=40
+e16r16c+rd+re16r16d+r<brg+16r16a16r16g+=4a=4g+=28r16
+f+16g+rarbra16r16g+rarb8arg+rf+8.r16
+b16r16arg+rf+16r16g+rarb16r16arbr>c+16<brarg+r<
+f+16g+rarbr>c+16r16f+16r16a8g+rf+re16r16c+16r16
+f+8erdrc+16r16<b16r16a8g+8a8b8>
+c+2<f+4g+4a4.g+8f+8e+8f+8g+8
+f+1 $E8 $60 $8C ^2. v200 r4
+
+; ************************************************************
+
+#2 o5 l8 
+
+r8/ $DA $17 $ED $81 $02 $EE $23 $DF v144
+c+2<b4a+4g+2a+b>c+d+e2c+2 $E8 $50 $E1 f+4.ed+ed+<b
+v150 g+2.a+4b2a+4b4<
+v220 [a16r16>c+16r16c+16r16<a16r16]2 [b16r16>d+16r16d+16r16<b16r16]2
+>c+2<b4a4g+2f+4e4d1c+1
+$DA $16 $ED $81 $00 $EE $00 $DE $00 $18 $08 o4
+v180 c+2.<b4a2b2>d1e2.e+4
+$DA $17 $ED $81 $02 $EE $23 $DF
+c+2.<b4a2g+2
+$DA $16 $ED $81 $00 $EE $00 $DE $00 $18 $08
+a2.b4>d2c+2c+1^2.
+$DA $17 $ED $81 $02 $EE $23 $DF o4
+g+4
+
+; ************************************************************
+#3 o4 l8 
+
+r8/ $DA $17 $ED $81 $02 $EE $23 $DF v144
+e2.f+4e2f+g+f+4a1b2.g+4
+c+1e2f+4f+4<
+v220 [e16r16a16r16a16r16e16r16]2 [f+16r16b16r16b16r16f+16r16]2
+g+2g+4f+4d+2d+4c+4<b1g+1
+$DA $16 $ED $81 $00 $EE $00 $DE $00 $18 $08 o3
+v180 a2.f+4e2f+4g+4a1b1
+$DA $17 $ED $81 $02 $EE $23 $DF
+a2.g+4f+2e+2
+$DA $16 $ED $81 $00 $EE $00 $DE $00 $18 $08
+f+2.g+4a2g+2a+1^2.
+$DA $17 $ED $81 $02 $EE $23 $DF o4
+d+4
+
+; ************************************************************
+
+#4 o3 l8
+
+r8/
+(3)[$DA $13 o4c+ $DA $14 o2c+]3 (4)[$DA $13 o4f+ $DA $14 o2f+]
+(5)[$DA $13 o4e $DA $14 o2e]2 (4) (6)[$DA $13 o3b $DA $14 o1b]
+(7)[$DA $13 o3a $DA $14 o1a]4 (6)3 [$DA $13 o3g+ $DA $14 o1g+]
+(3)3 (4) (5)2 (4) (6) (7)4 (6)3 (8)[$DA $13 o4g+ $DA $14 o2g+]
+(9)[r4 $DA $13 o4c+4]2 [r4 $DA $13 o3b4]2 (9)2 (3)4
+(4)3 (10)[$DA $13 o4b $DA $14 o2b]
+[$DA $13 o4a $DA $14 o2a]2 (10) (5)
+(11)[$DA $13 o4d $DA $14 o2d]4 (5)3 (15)[$DA $13 o5c+ $DA $14 o3c+]
+(4)3 (5) (11)2 (3)2 (4)3 (5) (11)2 (3)2
+(4)4 [$DA $13 o4f+ $DA $14 o3f+]3 (8)
+
+; ************************************************************
+
+#5 o4 l16
+
+r8/ $ED $81 $FF $EE $90
+[c+d+ef+g+8>c+8<b8g+8a+=4b=4a+=40
+b8g+a+b8a+f+d+8e8d+=4e=4d+=28r
+c+d+ef+e8d+ef+8e=4f+=4e=4d+c+8.r
+f+8ed+c+8d+ef+8e=4f+=4e=4f+g+8.r]2
+[d+eg+>c+<]4 [c+df+a]4 [e+g+b>c+<]8
+[r1]8
+[f+g+a+b>c+8f+8<]3 f+g+a+bd+8g+8
+
+; ************************************************************
+
+#6 o3 l16
+
+r8/ $EE $33
+(1)[<br>f+r<br>f+r<br>f+rerbr
+<drardrarerbrar>er<
+gr>dr<gr>dr<gr>dr<gr>dr<
+ar>er<ar>er<ar>er]<f+r>c+r
+(1) f+r>c+r<<
+(2)[br>f+rf+r<br]2 [ar>erer<ar]2
+(2)2 [br>f+r<]4
+[erbr]3 ar>er<
+gr>dr<gr>dr<ar>erdrar
+[crgr]4 [drar]3 <br>f+r
+[erbrerbrerbrdrbr
+crgrcrgr<br>f+rf+rf+r]2
+<[erbr]7 >f+r>c+r<
+
+;(1)[c+rg+rc+rg+rc+rg+rf+r>c+r
+;<<erbrerbrf+r>c+r<br>f+r<
+;ar>er<ar>er<ar>er<ar>er<
+;br>f+r<br>f+r<br>f+r]<g+r>d+r<
+;(1) g+r>d+r
+;(2)[c+rg+rg+rc+rc+rg+rg+rc+r]
+;<br>f+rf+r<brbr>f+rf+r<br>
+;(2) c+rg+rc+rg+rc+rg+rc+rg+r<
+;f+r>c+r<f+r>c+r<f+r>c+r<br>f+r<
+;ar>er<ar>er<br>f+rerbr
+;drardrardrardrar
+;erbrerbrerbrc+rg+r
+;[f+r>c+r<f+r>c+r<f+r>c+r<er>c+r<
+;drardrarc+rg+rg+rg+r]2
+;[<f+r>c+r]7 g+r>d+r<
+
+; ************************************************************
+
+#7 o2 l8
+
+r8/
+(12)[rg+rg+rg+>rc+<rbrb>rc+<rf+
+rererererf+rf+rf+]rd+
+(12)>rd+<
+[r1]3 [rg+]4 >
+rc+rc+rc+rf+rererf+<rb
+rararararbrbrb>rg+
+[rc+rc+rc+rc+<rararg+rg+>]2
+rc+rc+rc+rc+>rc+rc+rc+<rd+
+

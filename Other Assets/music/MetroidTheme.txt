@@ -1,0 +1,94 @@
+;-- HEADER AUTOMATICALLY GENERATED --
+$ED $80 $6D $2B 
+$ED $80 $7D $00 
+$F0
+;-- END OF HEADER -------------------
+
+;Metroid - Brinstar (Ported by Lucas)
+#0  	w250 t61
+
+#0	@0	q7F v220 y10
+#1	@8	q7F v200 y10
+#2	@1	q7F v180 y10
+#3	@1	q7F v180 y10
+#5	@10	q7F v160 y10
+
+#0
+o3
+[r1]4
+v220
+[g1
+a+2^4a16a+16a16f16]3
+g1g1
+[>c2^4<g4
+a+2^4a16a+16a16f16]3
+g1
+e1
+a2^4{a8g8a8}
+a+2f4{c8f8g8}
+a2^4{a8g8a8}
+a+2f4{f8a+8>c8}
+d1
+c2<b2
+>c2^4{d+8d8c8}
+d2<a+4{a+8>d8f8}
+f+1
+$E8 $FF $80
+f+1
+
+#1
+o1
+[g4{g8d8g8}g4{g8d8g8}
+a+4{a+8d8a+8}a+4a+16^32d16a+16^32]2
+[g4{g8>g8d8}<g4{g8>d8<g8}
+a+4{a+8>f8<a+8}a+4{a+8>f8<a+8}]3
+[g4>{d8<g8g8}]4>
+[{c8g8c8}c4]16
+[d+4{d+8c8d+8}]2
+d4{d8<a+8>d8}
+d4d16<a+8>d16
+[d+4{d+8c8d+8}]2
+[d4{d8<a+8>d8}]2
+<g4a4b4>c4d4e4f+4g4
+g+4
+{g+8d+8c8}
+<g+4
+o3
+{c8<a+8g+8}
+d+4d4c4<a+4>a4a4a4a4
+[{a8}]12
+
+#2
+o3
+[b1>c1<]2
+[b2>d2
+c2f2<]3
+b1>c2d2
+[e2^4{c8<g8>c8}f2d2]3
+e1c1
+f4c4<a4>{c8<a+8>c8}
+d4f4c4{<f8>c8d8}
+d+4<a4f4{c8<a+8>c8}
+d4f4a+4{d8g8a8}
+b2a2g2>d2
+d+4f4<g+4{g8f8d+8}
+f4a+4g4{f8a+8a+8}
+>d1<b2g2
+
+#3
+[d1]5
+[d+2d2d1]3
+d2g2
+[g2^4e4
+d2a+2]3
+>c1<g1
+>c4<a4f4c4f4a+2^4
+a4f4c4<f4a+4>d4f4{<a+8>d8f8}
+g1a2^4g4
+g+2d+4{f8d+8c8}
+d4f4c4<{a+8>d8f8}
+f+1f+2f+2
+
+#5
+o3
+[f+4f+4f+4{f+8f+8f+8}]99

@@ -1,0 +1,33 @@
+;-- HEADER AUTOMATICALLY GENERATED --
+$ED $80 $6D $2B 
+$ED $80 $7D $00 
+$F0
+;-- END OF HEADER -------------------
+
+;Blaster Master - Stage 1
+;Port by: CloudFantasyVII
+#0	@8	q7f v230 y10
+l16o3[drdddrdddrdddddd]3[d]16/o3(1)[<gg>gg]12(2)[<d+d+>d+d+<ff>ff]2(1)12(2)2(1)12(2)2(1)12(2)2(1)8l4<[a]24[f+]8>l16(2)8
+;
+#1	@1	q7f v255 y10
+$DE$20$08$30 l16o5[r1]2[crcc]3[c]20/o4(3)[g2^8g8b>d8f2^fedcre8d1^r8o3a+a+a+>cr8<a+a+a+>cr4]1(4)[g2^8g8b>d8f2^fagfeced1^r8o3
+a+a+a+>cr8<a+a+a+>c]1r4(3)1(4)1r>d+rd1^1^r1^2@0v200o3b8^>c+8^d8e2^4a4b8^g8^d8g4<b4>e1<b8^>g2^d4f+8^c+8^<a+8>c+8^<f+8^a+1^8
+r8@1v255o5[<a+a+a+>cr8<a+a+a+>cr4<a+a+a+a+a+>cr8<a+a+a+>cr4^8]2
+;
+#2	@1	q7f v255 y10
+$DE$20$08$30 l16r1o4[grgggrgggrgggggg]2[g]16/o3@1v255(5)[b2^8b8>dg8a2^8>c<bar>c8<b1^r8<gggar8gggar4]1(6)[b2^8b8>dg8a2^8>c
+<bagegb1^r8<gggar8ggga]1r4(5)1(6)1ro5cr<b2^g8^d8^c8<b1@0v215>(7)[c+2^4d^32e<a^32g8^>]1d2^4^c+2^4d^32ea^32g8^d8^<b8>d4<g4>
+(7)1d2^<b4>c+8^<a+8^f+8a+8^c+8^f+1^8r8@5v205[gggar8gggar4gggggar8gggar4^8]2
+;
+#3	@1	q7f v240 y10
+$DE$20$08$30 l16o4[drdddrdddrdddddd]3[d]16/[r1]18(8)[<a>c+ea]4(9)[<gb>dg]4(8)4(9)4(8)4(9)4[<a+>c+f+a+]5c+f+a+>c+f+c+<[a+f+]2c+<a+[r1]99
+;
+#4	@0	q7f v175 y10
+$DE$20$08$30 l16[r1]4/o4r[r1]18(10)[c+2^4d^32e]1<a^32g8^>d2^4^(10)1a^32g8^d8^<b8>d4<g4>c+2^4d^32e<a^32g8^>d2^<b4>c+8^<a+8^f+8a+8^c+8^f+1^8[r1]99
+;
+#5	q7f v205 y10
+l16o3[@21g+@23f+@22a+8]12[@21g+@23f+@10e@23f+]2@21g+[@10e@23f+@23f+]2@23f+/(11)[@21g+@23f+@22a+@22a+@10g+@23f+@22a+@22a+]6
+(12)[@21g+@23f+@22a+@22a+@22a+@10g+@23f+@23f+@22a+@22a+@22a+@10g+@23f+@22d@22a+@22a+]1(11)6(12)1(11)6(12)1(11)6
+(12)1(11)2[@10g+@23f+@22a+@22a+]2@10g+@23f+[@22a+]2@21g+[@10d]3(11)7@21g+@23f+[@22a+]2@10g+@23f+[@22a+]2@21g+
+@23f+[@22a+]4@10g+@23f+[@21g+@23f+@22a+@22a+@22a+@10g+@23f+@23f+@22a+@22a+@22a+@10g+@23f+@22d@23f+@23f+]3
+[@21g+@23f+@22a+8@21g+@10d@22a+@22a+@21g+@23f+@10d@22a+@21g+@10d@22a+@22a+]6;

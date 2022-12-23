@@ -1,0 +1,79 @@
+|----------------------------|
+|Key:                        |
+|Blank = Not started         |
+|v = Started but incomplete  |
+|x = Complete                |
+|----------------------------|
+WORLD 1
+01. [x] MS-DOS-------------------12
+02. [x] Windows 1.0--------------F
+03. [x] Windows 2.0--------------10
+04. [x] Windows 3.0--------------11
+05. [x] Windows Chicago 73-------3
+06. [x] Windows Chicago 125------5
+07. [x] Windows NT 4.0-----------E
+08. [x] Windows 95---------------B
+09. [x] Windows Nashville--------13
+10. [x] Windows Memphis----------4
+11. [x] Windows 98---------------1B
+
+WORLD 2
+12. [x] Windows NT 5.0-----------1C
+13. [x] Windows 2000-------------1D
+14. [x] Codename Millennium------19
+15. [x] Windows Me---------------1E
+16. [x] Windows Neptune----------108
+17. [x] Windows Whistler 2257----101
+18. [x] Windows Whistler 2419----109
+19. [x] Windows Whistler 2428----6
+20. [x] Windows XP---------------103
+
+WORLD 3
+21. [ ] Windows POSReady 2009----
+22. [ ] Windows Longhorn 3683----10C
+23. [ ] Windows Longhorn 4039----10D
+24. [ ] Windows Longhorn 4074----10E
+25. [ ] Windows Longhorn 5048----10A
+26. [ ] Windows Longhorn 5112----10B
+27. [x] Windows Vista Basic------105
+28. [v] Windows 7 6469-----------10F
+29. [x] Windows 7 6730-----------110
+30. [x] Windows 7----------------107
+
+WORLD 4
+31. [ ] Windows 8 7955-----------
+32. [ ] Windows 8 8102-----------
+33. [ ] Windows 8 8250-----------
+34. [x] Windows 8.1--------------102
+35. [ ] Windows 10 9841----------
+36. [ ] Windows 10 9926----------
+37. [x] Windows 10 Final---------23
+
+EXTRA
+38. [ ] Windows CE 1.0-----------
+39. [ ] Windows CE 2.0-----------
+40. [ ] Windows CE 3.0-----------
+41. [ ] Windows CE 4.0-----------
+42. [ ] Windows CE 5.0-----------
+43. [ ] Windows CE 6.0-----------
+
+EMULATOR
+44. [x] Introduction to SMW------20
+45. [x] Level 1-1----------------21
+46. [x] Level 1-2----------------15
+47. [x] Green Switch Palace------114
+48. [x] Level 2-1----------------115
+49. [X] Level 2-2----------------116
+50. [v] Red Switch Place---------113
+51. [ ] Level 3-1----------------118
+52. [ ] Level 3-2----------------119
+53. [ ] Level 3-3----------------117
+54. [ ] Blue Switch Phallus------112
+55. [x] Level 4-1----------------22
+56. [x] Level 4-2----------------14
+57. [v] Level 4-3----------------1A
+58. [v] Top Secret Area----------1F
+59. [ ] Ol' Yeller Switch--------111
+
+BONUS
+Levels will be imported from my older hacks, and cactus's hack

@@ -1,0 +1,142 @@
+;-- HEADER AUTOMATICALLY GENERATED --
+$ED $80 $6D $2B 
+$ED $80 $7D $00 
+$F0
+;-- END OF HEADER -------------------
+
+;Kirby's Dreamland 3 - Sand Canyon 1 (updated/fixed 12-11-10)
+;Ported by Moose
+;Song Duration: 1:13 (one loop)
+;N-SPC Patch Required? No
+;Sample Bank Required? No
+;Size: 2076 bytes
+
+#0 t64
+
+o4 l16
+(1)[@26cr@22c@22c@27cr@22c@22c@26c@22c@22c@22c@27cr@22c@22c]7
+(2)[@26cr@22c@22c@27cr@22c@22c@26cr@22c@22c@27cr@12fr]
+(1)7
+(3)[@26cr@22c@22c@27cr@22c@22c@26cr@22c@22c@12a-@12a-@12e-r]
+(4)[@26c@22c@22c@22c@27c@22c@22c@22c@26c@22c@22c@22c@27c@22c@22c@22c@26c@22c@22c@22c@27c@22c@22c@22c@26c@22c@22c@26c@27c@22c@22c@22c]3
+(5)[@26c@22c@22c@22c@27c@22c@22c@22c@26c@22c@22c@22c@27c@22c@22c@22c@29c@22c@22c@22c@12f@12f@12cr@12c2]
+(1)7
+(2)
+(1)7
+(3)
+(4)3
+(5)
+
+#1
+
+o2 @8 l8
+(6)[f4c4f^16f16c16r16c16r16frcrfrcrf4c4f16f16r16f16c16r16c16r16grcr>cr<c4f4c4f^16f16c16r16c16r16e-4b-4e-^16e-16b-16r16e-]
+(7)[c+^16c+16a-16c+d16e-^16e-16b-16r16e-16r16f4<f4>f^16<f16>e-16r16f]
+(6) (7)3
+<(8)[b-^16b-16>f<b->c^16c16gc<]2
+>(9)[c+^16<a-16>c+<a->e-^16<b-16>e-<b-g^16>g16<g>gc16r16^8^4]
+(6) (7) (6) (7)3 (8)2 (9)
+
+#2
+
+o4 @5 l16 v140
+
+(10)[r8ff]12
+(11)[r8ee]4
+(10)2
+(12)[r8e-e-]2
+<(13)[r8b-b-]2
+>(12)2
+(10)2
+(14)[r8gg]2
+(15)[r8cc]4
+(10)12
+(11)4
+(10)2
+(12)2
+<(13)2
+>(12)2
+(10)2
+(14)2
+(15)4
+<@0 v255
+a-ra-ra-r>c+re-re-r<b-r>e-rcrrfrrcrfrrrcrfrc+rc+rc+rfrgrgre-rgrgrrarrfrarrrgrarb-rrb-a-rfrgre-4grb-b-rb-frfrgre-4>d8 $DD $00 $08 $B3 c+c+rc+cr<b-ra-rgrfrgrc+2 $DD $00 $12 $A6 er4^8^
+@5 v140
+(10)12
+(11)4
+(10)2
+(12)2
+<(13)2
+>(12)2
+(10)2
+(14)2
+(15)4
+(10)12
+(11)4
+(10)2
+(12)2
+<(13)2
+>(12)2
+(10)2
+(14)2
+(15)4
+@6 v255
+a-ra-ra-r>c+re-re-r<b-r>e-rcrrfrrcrfrrrcrfrc+rc+rc+rfrgrgre-rgrgrrarrfrarrrgrarb-rrb-a-rfrgre-4grb-b-rb-frfrgre-4>d8 $DD $00 $08 $BF c+c+rc+cr<b-ra-rgrfrgrc+2 $DD $00 $12 $B2 er4^8^
+
+#3
+
+o4 @5 v120 l16
+(16)[r8aa]12
+(17)[r8gg]4
+(16)4
+(17)4
+(18)[r8a-a-]2
+(19)[r8b-b-]2
+(16)16
+(17)4
+(16)4
+(17)4
+(18)2
+(19)2
+(16)4
+@0 v255
+c+rc+re-rfrgrgrfrgrgrrarrgrarrrgrarfrfrgra-rb-rb-ra-rb-rb-rr>crr<b-r>crrr<b-r>crc+rrc+cr<b-r>cr<g4>crc+c+rc+cr<b-r>cr<g4>f+8 $DD $00 $08 $B7 ffrfe-rc+rcr<b-ra-rb-rf+2 $DD $00 $12 $AB >cr8^>cr8^<
+@5 v120
+(16)12
+(17)4
+(16)4
+(17)4
+(18)2
+(19)2
+(16)16
+(17)4
+(16)4
+(17)4
+(18)2
+(19)2
+(16)4
+@6 v255
+c+rc+re-rfrgrgrfrgrgrrarrgrarrrgrarfrfrgra-rb-rb-ra-rb-rb-rr>crr<b-r>crrr<b-r>crc+rrc+cr<b-r>cr<g4>crc+c+rc+cr<b-r>cr<g4>f+8 $DD $00 $08 $C3 ffrfe-rc+rcr<b-ra-rb-rf+2 $DD $00 $12 $B7 >cr8^
+@0
+cr8^
+
+#5
+
+o4 @3 l16 v255
+frf>c<br>crfre-rdrcr<b8>crrr<b8>crrr<b8>cr<frf>c<br>crfre-rdrcr<b8^>crr<b8>crrrrrc32c+32d32e32fre-rdrcr<b-8 $DD $08 $01 $AF>cr<arfre-8frrrf8g4fre-rfrfrgra-rgrgrfre-re-8^frre-8frrre-rfr
+@0
+frf>c<br>crfre-rdrcr<b8>crrr<b8>crrr<b8>cr<frf>c<br>crfre-rdrcr<b8^>crr<b8>crrrrrc32c+32d32e32fre-rdrcr<b-8 $DD $08 $01 $AF>cr<arfre-8^frrf8g4fre-rfrfrgra-rgrgrfre-re-8^frre-8frrre-efr
+@14
+fra->c+<fra->c+<b-rb->e-<grb->e-<ar>cf<ara>f<ar>cf<ar>cf<fra->c+<fra->c+<grb->e-<grb->e-<ar>cf<ar>cf<ar>cf<ar>cf<
+[fc+a->c+<fc+a->c+<e-<b->gb-e-<b->gb-]2 fc+a->c+<fc+a->c+<b-gb->e-<b-gb->e-<gb->df<gb->df
+@0
+<gr4^8^
+@6
+frf>c<br>crfre-rdrcr<b8>crrr<b8>crrr<b8>cr<frf>c<br>crfre-rdrcr<b8^>crr<b8>crrrrrc32c+32d32e32fre-rdrcr<b-8 $DD $08 $01 $AF>cr<arfre-8frrrf8g4fre-rfrfrgra-rgrgrfre-re-8^frre-8frrre-efr
+@2
+frf>c<br>crfre-rdrcr<b8>crrr<b8>crrr<b8>cr<frf>c<br>crfre-rdrcr<b8^>crr<b8>crrrrrc32c+32d32e32fre-rdrcr<b-b>cr<arfre-8frrrf8g4fre-rfrfrgra-rggrgfre-re-8^frre-8frrre-rfr
+@14
+fra->c+<fra->c+<b-rb->e-<grb->e-<ar>cf<ara>f<ar>cf<ar>cf<fra->c+<fra->c+<grb->e-<grb->e-<ar>cf<ar>cf<ar>cf<ar>cf<
+[fc+a->c+<fc+a->c+<e-<b->gb-e-<b->gb-]2 fc+a->c+<fc+a->c+<b-gb->e-<b-gb->e-<gb->df<gb->df
+@0
+<gr4^8^

@@ -1,0 +1,105 @@
+;Title:U.N. Owen was Her?
+;From:Touhou 6 - Embodiment of Scarlet Devil.
+;Composer:ZUN
+;Composer to SMW:wagokoro_
+;Play Time: 1:55
+;Size 4007byte
+;N-SPC Patch: YES
+;DO NOT redistribute the this MML file.
+
+#0	$EF$FF$20$27
+	$F1$08$45$01
+	$DE$1C$08$88
+	w250 t67 v165 @4
+	o5l16p08,34$ED$0D$E0
+	[fd<a>fd<a>fd<a>fd<a>{e^rre^rre^^r}fd<a>fd<a>fd<a>fd<a>{g^rrg^rrg^^r}]4
+	(1)[v165@4l8<$ED$3E$E0arfrg+rerbrg+rgra+rarfrg+rerbrg+r$ED$3E$EBg2$DD$3B$30$A2
+	$ED$3E$E0arfrg+rerbrg+rgra+rarfrg+rer>brg+r$ED$3E$EBg2$DD$3A$30$B2]
+	(2)[v170$ED$2D$E7drarerarfrgagrbr>d<a>ef16r16ef16e16dc16<r16a>c16.r32<ga16.r32f2
+	drarerarfrgagrbr>d<a>ef16r16ef16e16dc16r16d1<
+	drarerarfrgagrbr>d<a>ef16r16ef16e16dc16<r16a>c16.r32<ga16.r32f2
+	drarerarfrgagrbr>d<a>ef16r16ef16e16dc16r16d1]@0$ED$0F$EFv180
+	{d<ag>d<ag>d<ag>d<ag>d<ag>d<ag>d<ag>d<ag>c+<af+>c+<af+>c+<af+>c+<af+>c+<af+>c+<af+>c+<af+>c+<af+>
+	}[{c+<af+>c+<af+bg+ebg+eaf+c+g+ab}f+4.c+16e16
+	{f+c+<a>f+c+<a>g+e<b>g+e<b>g+f<b>}]{g+ab}>c+2
+	*{<g+f<b>>l16c+^rrc+^rrc+^^r}r1^1^1^1^1^1^1^1<(1)r2(2)
+#1	y9v80@4o4l16p08,34$ED$0D$E0
+	[y11v115o4fd<a>fd<a>fd<a>fd<av150>{y9g^rrg^rrg^^r}y11
+	v115fd<a>fd<a>fd<a>fd<a>>v150{y9e^rre^rre^^r}]4
+	>v150$ED$0F$E0y10f2e2g+2g2
+	(3)[rrfrrrfrrrerrrerrrg+rrrg+rrrgrrrgr]3
+	(4)[v160$ED$2D$E7l8<y9
+	<ar>fr<ar>frdrefergraf>cd16r16cd16c16<ff16r16fa16.r32ef16.r32d2
+	<ar>fr<ar>frdrefergraf>cd16r16cd16c16<ff16r16a1
+	<ar>fr<ar>frdrefergraf>cd16r16cd16c16<ff16r16fa16.r32ef16.r32d2
+	<ar>fr<ar>frdrefergraf>cd16r16cd16c16<ff16r16a1]
+	v115@0$ED$0F$EFy11
+	{d<ag>d<ag>d<ag>d<ag>d<ag>d<ag>d<ag>d<ag>
+	c+<af+>c+<af+>c+<af+>c+<af+>c+<af+>c+<af+>c+<af+>c+<af+>}
+	[{c+<af+>c+<af+bg+ebg+eaf+c+g+ab}y9>v140c+4.<v115y11
+	c+16e16{f+c+<a>f+c+<a>g+e<b>g+e<b>g+f<b>}]{g+ab}y9>v140a2v115y11
+	*<{g+f<b>>y9v160l16a^rra^rra^^r}
+	@4v150$ED$0F$E0>y10f2e2g+2g2(3)7r2(4)
+#2	v180 @4o2p08,34$ED$0D$E0$DE$30$08$60
+	l4d.a>d8<eed.a>d8<ggd.a>d8<eed.a>d8<gg
+	<a+.>fa+8ee<a+.>fa+8>c+c+<d.a>d8<eed.a>d8<ggl8
+	(5)[dadac+g+c+g+ebebd+a+d+a+]4
+	(6)[v170a+>f<a+>fcgcgdada<b>g<b>g<a+>f<a+>fcgcgdadadada<]4
+	v180a1a1>c+1c+2.<f+16>c+16<e16b16
+	[dadaebebf+>c+<f+>c+<f+>c+<ebdadaebebfbfb]f+>c+<f+>c+<
+	*>{l16c+^rrc+^rrc+^^r}<l8(5)8r2(6)4
+"BH = y10v250@21c"
+"BA = y10o1@22v0c64"
+"BC = v250"
+"S1H = y9o3v250a"
+"S1HN = y9o3a"
+"SA = @27v0c64"
+"S2H = y11o3v250g+"
+#3	@0v0l16
+	r4^^32.SA(12)[S2HS2H4.^S2H4S2HS2H4.^S2HS2H4^S2HS2HS2HS2H8.S2HS2H]
+	r4^^(12)r4^^(12)r4^^S2HS2H4.^S2H4
+	S2HS2H8.BHBH8^32.SAS2HS2H8.BH32.SAS2H8.S2H8.{S2HS2HS2H}r
+	BH4BH4BH4BH16^32.
+	(13)[SAS2H8BH4BH16^32.]2
+	SAS2H8BH4BH4BH4BH16^32.
+	(13)2SAS2H8BH8^^32.
+	SAS2H4BH8^^32.[SAS2H8S2H8BH8^^32.]3
+	SAS2H4BH8^^32.SAS2H8S2H8BH4BH16^32.
+	SAS2H8BH4BH16^32.SAS2H8
+	(11)[BH4BH4BH4BH4BH4BH4BH16^32.SAS2H8BH32.SAS2H8S2H]8BH1^1
+	BH1BH1BH4.[BHBHBH2BH4.]3BHBHBH8^16^32.SAS2HS2HS2HS2H
+	BH4BH4BH4BH4BH4BH4BH16^32.SAS2H8BH32.SAS2H8S2H
+	BH4BH4BH4BH4BH4BH4BH8^32.SAS2HBH16^32.SAS2H8
+	[BH4BH4BH4BH16^32.SAS2H8BH4BH16^32.SAS2H8BH4BH16^32.SAS2H8]2
+	(14)[BH8^^32.SAS2H4BH8^^32.SAS2H8S2H8BH8^^32.SAS2H8S2H8BH8^^32.SAS2H8S2H8]
+	(15)[BH8^^32.SAS2H4BH8^^32.SAS2H8S2H8]BH4BH16^32.SAS2H8BH4BH16^32.SAS2H8
+	(14)3(15)BH8^^32.SAS2H8S2H8BH8^^32.r4r2(11)8
+"X = @1$ED$08$E0"
+"Y = @1$ED$06$E0"
+"Z = $ED$0F$E0"
+#4@1v194l2$DE$30$08$50
+	o3y9Ya2.>Ye2<Ya2.>Yg2<Ya2.>Ye2<Ya2.>Yg2Ya2.>Ye2<Ya2.>Yg2<<Ya2.>Ye2<Ya2.>Yg2
+	o4(7)[YfYeYg+YgYfYeYg+YgYfYeYg+YgYfYeYg+Yg](8)[YdYeYfYgYa+>YcYd1<]4
+	<Ya1Ya1>Yc+1Yc+2.<Xb4XaXb>Xc+<XbXaXbXb>Xc+<XaXb>Xc+<XbXaXbXb>{v180l16Zc+^rrZc+^rrZc+^^r}
+	v194l2(7)2r2(8)4
+#5@0v0l16
+	[BH8^^32.SAS1H4.BH8BH8.BH32.SAS1HBH4^BHBH32.SAS1H4.BH8BH8.BH32.SAS1HBH8.]3
+	BH8^^32.SAS1H4.BH8BH8.BH32.SA
+	S1H8.S1HS1HS1HS1HS1H8.S1H8S1H8S1HS1H4.{S1HS1HS1H}r32.
+	[BABCa4f4g+16^32.SAS1H16^32.BABCe4b4g+4g4a+4a4f4g+16^32.SAS1HS1H32.BABCe4
+	b16^32.SAS1HS1H32.BABCg+32.SAS1HS1HS1H32.BABCg32.SAS1HS1H8S1HS1HS1HS1H32.]2r64
+	r1^1^1^1^1^1^1^1^1^1^1^1^1^1^1^16^32.
+	SAS1HS1HS1H8S1HS1H8S1HS1H8S1H8S1H8
+	r^1^1^1^1^1^1^1^2^8^32.SAS1HS1H8S1Hr1^1^1^16^32.
+	SAS1HS1HS1H8S1HS1HS1H8.S1H8.S1H8*2
+	[BABCa4f4g+16^32.SAS1H16^32.BABCe4b8.^32.SAS1H8.^32.BABCg4a+4a4f4g+16^32.SAS1HS1H32.BABCe4b8.^32.SAS1H8.^32.BABCg4.^16^32.]2
+	r2^64r1^1^1^1^1^1^1^1^1^1^1^1^1^1^4.^16^32.SAv50$E8$FF$F0[S1HN32]48
+#6@1v180l2$DE$30$08$50o3
+	y11Yd2.Yg2Yd2.Ya+2Yd2.Yg2Yd2.Ya+2>
+	Yd2.Yg2Yd2.Ya+2<Yd2.Yg2Yd2.Ya+2
+	(9)[Ya2Yg+2Yb2Ya+2Ya2Yg+2Yb2Ya+2
+	Ya2Yg+2Yb2Ya+2Ya2Yg+2Yb2Ya+2]
+	(10)[l2@1v180l2$DE$30$08$50YfYgYaYgYfYgYa1]4
+	Yd1Yd1Yf+1f+2.Xe4XdXeXf+XeXdXeXfXf+
+	XdXeXf+XeXdXeXf{v180l16Zf^rrZf^rrZf^^r}
+	v180(9)2r2(10)4

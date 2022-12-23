@@ -1,0 +1,151 @@
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;CUSTOM - Death Egg Dancer
+;;;;;Artist(s): Masato Nakamura; Nobuo Uematsu
+;;;;;Ported by: Slash Man
+;;;;;Song Duration: 1:45
+;;;;;Insert Size: 1318 bytes
+;;;;;N-SPC Patch Required! (Addmusic 4)
+;;;;;Sample Bank Required!
+;;;;;Header Type: Level
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;==========Sample Bank==========;
+;20 = Flute
+;21 = Organ
+;22 = Bass
+;23 = Snare
+;24 = Kick
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;LEVEL MUSIC HEADER!!!!!
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+$ED $80 $6D $2B 	; Echo buffer x2B00
+$ED $80 $7D $00 
+$F0								; Echo = Off
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+#0 w255 t66
+v0c4
+
+$EF $2F $23 $23
+$F1 $05 $46 $01
+
+/
+t66 $E5 $A0 $04 $ED $7E $E0 $EE $20 $DF l8
+r1. y10 v150 [o4d+d]4c<a>cd
+r1. [fe]5fg
+[y5 $DC $90 $07 o5d4c+c<ba+ag+gf+fe
+$DC $90 $0A d+efegf+f4er4.
+$DC $90 $0C d+4er4gf4er4.
+$DC $90 $0F dd+ad+>c<a>f2.]2
+[r2.]8 y10 $DE $30 $0F $1F 
+t66 o4 g2a4b2g4
+>d4.ed4<b2g4
+t66 >g2.e2.
+d2.<b2.
+t66 g2a4b2g4
+>d4.ed4<b2g4
+t66 >g1e4f+4g1.
+
+y12 v128 o4b2>c4d2<b4>
+f+4.gf+4d2<b4
+>b2gbg2f+g
+f+2.g2f+4
+<b2>c4d2<b4
+>f+4.gf+4d2<b4
+>b1^1^2^4^8 $DD $00 $30 $A9 ^8
+t62 [v0c2.]8 v120
+[e2f4g2e4
+e2c4e2c4
+e2f4g2e4
+c2d4c2.]2
+
+#1
+r4
+/
+$E5 $A1 $04 $ED $7E $E0 $ED $81 $02 $EE $40 $DE $00 $05 $0A v140 
+[o5 y15 $DC $90 $0C r4c8r8c8r8 $DC $90 $0A r4c8r8c8r8  
+$DC $90 $07 r4c8r8c8r8 $DC $94 $04 r4c8r8c8r8]50
+
+#2
+r4
+/
+$E5 $A1 $04 $ED $7E $E0 $ED $81 $02 $EE $40 $DE $00 $05 $0A v140 
+[o4 y15 $DC $90 $0C r4a8r8a8r8 $DC $90 $0A r4a8r8a8r8  
+$DC $90 $07 r4a8r8a8r8 $DC $94 $04 r4a8r8a8r8]50
+
+#3
+r4
+/
+$E5 $A1 $04 $ED $7E $E0 $ED $81 $02 $EE $40 $DE $00 $05 $0A v140 
+[o3 y15 $DC $90 $0C a4>e8r8e8r8 $DC $90 $0A <a4>e8r8e8r8  
+$DC $90 $07 <f4>f8r8f8r8 $DC $94 $04 <f4>f8r8f8r8]50
+
+#5
+r4
+/
+$E5 $A2 $07 $ED $7E $EC $ED $81 $04 $EE $80 y10 l4
+(1)[v150 o3 a2>ea2g f2.<f2g
+a2>ea2g f2.>c2.]
+(2)[o3a.>d+8e<a>g8rf+8 f2.<f2g
+a.>d+8e8r8<a>c8r8e8r8 g2f+f<f2]2
+(1)(2)4
+(1)(2)4
+
+#4 l4
+r
+/
+$E5 $A4 $04 $ED $7F $F1 $ED $81 $FF $EE $40 v180 o5
+(3)[r1. r8c8c2r8c8c2
+r1. r8ccc8c8c8r2]1
+(4)[cr2cr2cr2cr2cr2cr2cr2cr2
+cr2cr2cr2cr2cr2cr2cr2crc]
+(3)1(4)2
+r1. r8c8c2r8c8c2
+$E3 $90 $40 r1. $E3 $90 $37 r8ccc8 $E3 $90 $33 c8c8r2
+(4)2
+
+#6 l4 
+r
+/
+(5)[o4 v160 r@23c@23c r@23c@23c
+v200 $E5 $A3 $04 $ED $7F $F1 $ED $81 $FF $EE $40 o5 cr2cr2 
+v160 r@23c@23c r@23c@23c
+v200 $E5 $A3 $04 $ED $7F $F1 $ED $81 $FF $EE $40 o5 cr2.cc8c8]
+(6)[rc8c8crcc rc.c8rcc
+rc8cc8rcc rc8cc8rc8c8c
+rccrc8cc8 rccrc8c8c
+rccrc8cc8 rccrc8 t66 c8r8c8]
+(5)(6)2
+(5)(6)2
+[r1]100
+
+#7 
+r4
+/
+$E5 $A0 $04 $ED $7D $E0 $EE $20 l16 v130
+(7)[r1.r4 $EF $AF $23 $23 y9 o5c+<bgr>c+<bgr r4 y11 >c+<bgr>c+<bgr]2
+$EF $2F $23 $23 [r2.]16 (7)2
+$ED $7C $E0
+r8 y8 v90
+t66 o4 g2a4b2g4
+>d4.ed4<b2g4
+t66 >g2.e2.
+d2.<b2.
+t66 g2a4b2g4
+>d4.ed4<b2g4
+t66 >g1e4f+4g1.
+$E5 $A0 $04 $ED $7E $E0 $EE $20 l8
+v128 o4g2a4b2g4
+>d4.ed4<b2g4
+>g2ege2de
+d2.e2d4
+<g2a4b2g4
+>d4.ed4<b2g4
+>g1^1^2^4^8 $DD $00 $30 $B5 ^8
+[r2.]8
+r v100 y8
+[e2f4g2e4
+e2c4e2c4
+e2f4g2e4
+c2d4]o5 c2. * o5 $E3 $C8 $44 c2..

@@ -1,0 +1,111 @@
+;-- HEADER AUTOMATICALLY GENERATED --
+$ED $80 $6D $2B 
+$ED $80 $7D $00 
+$F0
+;-- END OF HEADER -------------------
+
+;Yoshi Topsy Turvy - The Tale of the Spirit of Power
+;Ported by Moose
+;Song Duration: 1:10 (one loop)
+;N-SPC Patch: No
+;Sample Bank: No
+;Size: 1164 bytes
+
+#0 t67
+
+o5 @9 v200 l16
+dc<ba-gfe-dcrr8r4r2>
+/
+[r1]6
+c<ge-de-fe-ff+ff+a-f+a-b-b>cr<<(1)[grr8arr8b-rr8grf8frr8arr8b-rr8frg8]3
+grr8arr8b-rr8gr>>c<ge-de-fe-ff+ff+a-f+a-b-b>cr<<(1)3
+grr8arr8b-rr8gr>>c<ge-de-fe-ff+ff+a-f+a-b-b>crr8r4r2[r1]7
+<<[g8grr8arr8b-rr8ar]2
+(2)[b-8b-rr8>crr8c+rr8cr<]2
+>(3)[c+8c+rr8e-rr8err8e-r]2
+<g8grr8arr8b-rr8gr>>c<ge-de-fe-ff+ff+a-f+a-b-b>cr
+<<grr8arr8b-rr8arg8grr8arr8b-rr8ar
+(2)2
+>(3)2
+<g8grr8arr8b-rr8gr>>c<ge-de-fe-ff+ff+a-f+a-b-b>crr8r4r2
+
+#1
+
+o4 @9 v180 l16
+agf+e-dc<b-agrr8r4r2>
+/
+[r1]6
+gd<b-ab->c<b->cc+cc+e-c+e-ff+gr@5(4)[crr8drr8e-rr8drc8]6
+crr8drr8e-rr8cr@9gd<b-ab->c<b->cc+cc+e-c+e-ff+gr@5(4)6
+crr8drr8e-rr8cr@9gd<b-ab->c<b->cc+cc+e-c+e-ff+grr8r4r2[r1]7
+[c8crr8drr8e-rr8dr]2
+(5)[e-8e-rr8frr8f+rr8fr]2
+(6)[f+8f+rr8a-rr8arr8a-r]2
+c8crr8drr8e-rr8crgd<b-ab->c<b->cc+cc+e-c+e-ff+gr
+crr8drr8e-rr8drc8crr8drr8e-rr8dr
+(5)2
+(6)2
+c8crr8drr8e-rr8crgd<b-ab->c<b->cc+cc+e-c+e-ff+grr8r4r2
+
+#2
+
+o2 @14 l16
+r2c4g4>c4<g4
+/
+<f4>c8^e-re-dre-e-dr
+[c4g4>c4<g4<f4>c8^e-re-dre-e-dr]11
+c1<g2r8g8r8g8>c1e-2r8f8r8f+8c1<g2r8g8r8g8>c2e-2e8f8f+8g8a-8a8b-8b8
+(7)[c4d4e-4d4]2
+(8)[e-4f4f+4f4]2
+(9)[f+4a-4a4a-4]2
+(7)4
+(8)2
+(9)2
+(7)2
+c4g4>c4<g4
+
+#3
+
+o4 l8
+r4@26c4[@21c@27c]4
+/
+(10)[@21c@27c]25 @21c @27c32@27c32@27c32@27c32@27c@29c@26c4
+(10)29 @21c@27c32@27c32@27c32@27c32@27c@29c@26c4
+(10)29 @21c@27c32@27c32@27c32@27c32@27c@29c@26c4
+(10)29 @21c@27c32@27c32@27c32@27c32@27c@29c@26c4
+(10)29 @21c@27c32@27c32@27c32@27c32@27c@29c@26c4
+(10)29 @21c@27c32@27c32@27c32@27c32@27c@29c@26c4
+(10)4
+
+#4
+
+o4 l8
+r2@26c1
+/
+@26c2^@26cr@26c
+(12)[@26c1@26c2^@26cr@26c]2
+(13)[@26c1@26c1]
+(12)3
+(13)
+(12)3
+(13)
+(12)3
+(13)
+(12)3
+(13)
+(12)3
+(13)
+@26c1
+
+#5
+
+o3 l16 v110
+r2[@23c@23c@23c8]4
+/
+(11)[@23c@23c@23c8]27r4
+(11)31r4
+(11)31r4
+(11)31r4
+(11)31r4
+(11)31r4
+(11)4

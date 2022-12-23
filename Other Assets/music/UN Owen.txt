@@ -1,0 +1,774 @@
+;Ｕ．Ｎ．オーエンは彼女なのか？   	c8c (3212)バイト
+
+ #0
+ @0 w237 v218 l32 o5 p30,42 y10  ;
+$E4 $FF
+$EE $59
+$EF $FF $46 $49 
+$F1 $07 $0E $01
+
+[t32
+d<bg->d<bg->d<bg->d<bg-> t31 d-rd-rd-r t32
+d<bg->d<bg->d<bg->d<bg-> t31 erere  ]1 r 
+*1 r
+*1 r
+*1 t23 r
+t15
+l16 @2 v114 p0,0 y12
+$EF $FF $56 $66 
+
+[bf+a+f>c+<a+a>c<
+$EF $FF $60 $70 
+bf+a+f>c+<a+a8
+$DD $0D $1B $99
+>
+]1
+v138 y11  *1 
+w255
+
+@0 o5 
+[
+$EE $59
+l64 q7F v220 p40,2 y10  
+
+$F1 $07 $16 $01
+$EF $DD $60 $63
+c-32.r v210
+g-32.r v218
+d-32.r v210
+g-32.r v226
+d32.r 
+$EF $DF $6A $79
+v244
+f-32g-32  f-32.r64 
+v238
+a-32.r64 
+$EE $58
+
+l32 
+
+p40,7 
+v247
+
+bf+>c+d
+c+
+$EB $02 $01 $FF
+d
+$EB $00 $00 $00
+<b
+$EF $DF $79 $7B
+a
+
+]1
+g-af-g- 
+p40,20 
+d8
+*1
+p40,30
+
+b4
+*1
+g-af-g-
+p40,20 
+d8
+*1
+p40,30
+$EF $9B $79 $7B
+b4
+
+
+
+
+
+$EF $1B $7C $7F
+$EE $59
+@0 l32 q5F
+{
+[v225 b v170 f+e]8 [ v225 a+ v170 f+e-]8
+
+[v235 a+ v180 f+e- v235 a+ v180 f+e-
+v235g+ v180 fd- v235g+ v180 fd- v235g- v180 e-<b-> v215 fg-a-e-8
+<b->d- e- < v180 b-g-> v235 e- < v180 b-g-> 
+v235 f v180 d-<a-> v235 f v180 d-<a-> v235 f v180 d<a->]1
+ v215 fg-a-b-8.
+*1 v235 f v180 d<a->  
+}v255 
+b-32.b-32.b-32
+
+$F1 $07 $0E $01
+ w240
+
+l16 @2 v114 p0,0 y12
+$EF $FF $56 $66 
+
+[bf+a+f>c+<a+a>c<
+$EF $FF $60 $70 
+bf+a+f>c+<a+a8
+$DD $0D $1B $99
+>
+]2
+v138 y11  *2 
+
+r8 w255
+
+@0 o5 
+[
+$EE $59
+l64 q7F v220 p40,2 y10  
+
+$F1 $07 $16 $01
+$EF $9D $60 $63
+c-32.r v210
+g-32.r v218
+d-32.r v210
+g-32.r v226
+d32.r 
+$EF $9F $6A $79
+
+f-32g-32  f-32.r64 
+v238
+a-32.r64 
+$EE $58
+
+l32 
+
+p40,7 
+v247
+
+bf+>c+d
+c+
+$EB $02 $01 $FF
+d
+$EB $00 $00 $00
+<b
+$EF $9F $7C $7F
+a
+
+]1
+g-af-g- 
+p40,20 
+d8
+*1
+p40,30
+
+b4
+*1
+g-af-g-
+p40,20 
+d8
+*1
+p40,30
+$EF $9B $7C $7F
+b4
+
+
+
+
+
+
+ #1 
+@0 v141 l32 o4 y12 p20,52 ;
+$EE $59
+
+[bg-dbg-dbg-dbg-d v250 y9 ararar y12 v141
+bg-dbg-dbg-dbg-d v255 y11 grgrgr y12 v141]4
+
+l16 @1 v179 p0,0 y12 o4 
+[f+dfd-a-feg
+f+dfd-a-f
+e8
+$DD $0D $1B $97
+]1
+
+
+
+v255 y10 *1 
+ o5 
+[
+$EE $59
+l64 q5F p40,10 v162 y11 @0
+
+ <g32.r> v172 d32.r v158 <a32.r> v174 d-32.r v203  f+32.r d-32d32 v207 
+d-32.r64
+v195
+ e32.r64
+
+q7F
+l32 v208 p40,76 
+$EE $58
+g d ab
+a 
+b64a64
+f+e
+
+]1 
+
+v194
+df+d-d p40,79  y12 
+<b8>
+*1  p24,80 
+v214
+$EE $80
+f+4 
+$EE $59
+
+*1 v195
+df+d-d p40,79 y12
+<b8>
+*1  p24,80 
+v214
+$EE $80
+f+4 
+$EE $59
+y10 v240
+@18 o3 p20,95 
+v65 $E8 $30 $FF
+f+1
+l64
+[o3 v175 @21 c o4 @23 v10 c v185 c32]32
+
+
+
+l16 @1 v179 p0,0 y12 o4 
+[f+dfd-a-feg
+f+dfd-a-f
+e8
+$DD $0D $1B $97
+]2
+
+
+v255 y10 *2 r8
+
+ o5 
+[
+$EE $59
+l64 q5F p40,10 v167 y11 @0
+
+ <g32.r> v178 d32.r v161 <a32.r> v180 d-32.r v208  f+32.r d-32d32 v210 
+d-32.r64
+v199
+ e32.r64
+
+q7F
+l32 v208 p40,76 
+$EE $58
+g d ab
+a 
+b64a64
+f+e
+
+]1 
+
+v194
+df+d-d p40,79  y12 
+<b8>
+*1  p24,80  
+v214
+$EE $80
+f+4 
+$EE $59
+
+*1 v196
+df+d-d p40,79 y12
+<b8>
+*1  p24,80 
+v214
+$EE $80
+f+4 
+$EE $59
+
+
+
+
+
+ #4 
+
+@0 v152 l32 o4 y8 p10,62 ;
+
+$EE $59
+[g-d<b>g-d<b>g-d<b>g-d<b> v254 y11 g-rg-rg-r v152 y8
+g-d<b>g-d<b>g-d<b>g-d<b> v255 y9 a+ra+ra+r< v152 y8]4
+v168
+l32 @1 r2 o4
+[y8
+rbrb 
+ra+ra+> v204 y9
+rc+rc+  
+rcrc< v168]3
+
+
+q7F l8 @18 y10 p30,28
+[o4
+$EE $59
+v120 $E8 $10 $F3
+<b>
+v120 $E8 $10 $F3
+c+
+v120 $E8 $10 $F3
+d
+v120 $E8 $10 $F3
+e
+v143 $E8 $0A $F3
+g
+v138 $E8 $0E $F3
+a
+v133 $E8 $11 $F3
+b4]4
+p255,255 y10
+o6  
+[
+v116 
+$01 $D2 v187 $A7 $A7 $A7 $A7 $A7 $A7 $A7 $A7
+$A8 $A8 $A8 $A8 $A8 $A8 $A8 $A8
+$A9 $A9 $A9 $A9 $A9 $A9 $A9 $A9
+$A8 $A8 $A8 $A8 $A8 $A8 $A8 $A8 
+]17
+
+ v128
+$A7 $A7 $A7 $A7 $A7 $A7 $A7 $A7
+$A8 $A8 $A8 $A8 $A8 $A8 $A8 $A8 $A8 $A8 $A8 $A8 $A8 
+ 
+
+l32 @1 r4^8^16^32 o4 p10,62 
+[y8 v158
+rbrb 
+ra+ra+> v200 y9
+rc+rc+  
+rcrc< ]7
+
+ y10
+o4 v210 $E8 $18 $10
+$01 $D2 v187 $A7 $A7 $A7 $A7 $A7 $A7 $A7 $A7
+$A8 $A8 $A8 $A8 $A8 $A8 $A8 $A8
+$A9 $A9 $A9 $A9 $A9 $A9 $A9 $A9
+
+q7F l8 @18 y10 p30,28
+[o4
+$EE $59
+v120 $E8 $10 $F3
+<b>
+v120 $E8 $10 $F3
+c+
+v120 $E8 $10 $F3
+d
+v120 $E8 $10 $F3
+e
+v143 $E8 $0A $F3
+g
+v138 $E8 $0E $F3
+a
+v133 $E8 $11 $F3
+b4]4
+
+
+
+
+ #2 
+
+@18  l32 o4 p20,40 y11;
+
+$EE $59
+[
+v75 $E8 $12 $FF
+g-4.
+v75 $E8 $12 $FF
+e8.
+v55 $E8 $12 $FF
+g-4.
+v55 $E8 $12 $FF
+g8.]4 y10
+l8 o5 p40,60 
+
+v105 $E8 $0C $CF
+d
+v105 $E8 $0C $CF
+d-
+v85 $E8 $0C $CF
+f
+v105 $E8 $0C $CF
+e 
+
+v176 
+l32 @1 > 
+[ y9
+rdrd
+rd-rd- 
+v156 y8
+rfrf
+rere]3
+
+@2 o5 p0,0 q7F
+[l64 v89 y8
+$EE $59
+c-32.r v95 g-32.r v89 d-32.r v95 g-32.r  f+32.r v99 a-32a32 a-32.r  e32.r 
+$EE $58
+ l32 v85
+b  f+> c+d
+c+
+
+d64d-64
+
+<ba 
+]1
+
+g-af-g- 
+d8
+*1 
+
+b4 
+*1
+g-af-g-
+d8
+*1 
+b4 
+
+@22 v255 o4 l32
+c4c4c4c8.{cde}
+[cfcfcfcf]8
+
+
+
+y10
+l8 o5 p40,60 @18
+
+v105 $E8 $0C $CF
+d
+v105 $E8 $0C $CF
+d-
+v85 $E8 $0C $CF
+f
+v105 $E8 $0C $CF
+e 
+
+v176 
+l32 @1 >
+[ y9
+rdrd
+rd-rd- 
+v156 y8
+rfrf
+rere]7
+
+r8
+
+@2 o5 p0,0 q7F
+[l64 v86 y8
+$EE $59
+c-32.r v91 g-32.r v86 d-32.r v91 g-32.r  f+32.r v97 a-32a32 a-32.r  e32.r 
+$EE $58
+ l32 v84 
+b  f+> c+d
+c+
+
+d64d-64
+
+<ba 
+]1
+
+g-af-g- 
+d8
+*1 
+
+b4 
+*1
+g-af-g-
+d8
+*1 
+b4 
+
+
+
+
+ #3 
+
+@1 v100 o3 p20,40 ;
+q7F
+$EE $59
+[<
+v145 $E8 $0C $FF 
+b8.>
+v145 $E8 $0C $FF 
+g-8.
+v145 $E8 $0C $FF 
+d-8.
+v145 $E8 $0C $FF 
+<b8.
+v145 $E8 $0C $FF 
+>g-8.
+v145 $E8 $0C $FF 
+e8.
+]2
+v145 $E8 $0C $FF 
+<g-8.
+v145 $E8 $0C $FF 
+>d8.
+v145 $E8 $0C $FF 
+d-8.
+v145 $E8 $0C $FF 
+<g-8.
+v145 $E8 $0C $FF 
+>g-8.
+v145 $E8 $0C $FF 
+a+8.
+*1
+@1 l16 o2
+[bbb-b->c+c+cc<]4
+
+$EE $59
+q7F l8 @18 y10 p40,70 
+[
+$EE $59
+gab
+$EE $5A
+g+ 
+$EE $58
+gab4]4
+
+@1 l16 o2 
+b4b4>
+$EE $38
+e-4e-8.
+$EE $58
+{e-32e-32d-32}q6F
+[c-c-d-d-e-e-e-d-c-c-d-d-dd]1e-e-
+*1 dd
+
+@1 l16 o2
+[bbb-b->c+c+cc<]8
+
+r8
+
+$EE $59
+q7F l8 @18 y10 p40,70 
+[
+$EE $59
+gab
+$EE $5A
+g+ 
+$EE $58
+gab4]4
+
+
+
+
+
+ #6 
+
+v255 l32 y9
+
+[o1 @21 g @23 o4 ag 
+@27 >c16< @23 
+gagfgagfgf 
+@27 >c16< @23
+g ]7
+@24 o4
+ccccc16rcrc
+@25 o2
+c16c16c16cc
+y10 o3 l64
+[
+@22 v180 
+c32>c32<c32>cc< 
+c32>c32<c32>cc< 
+c32>c32<c32>cc< 
+c32>c32<c32>cc< 
+c32>c32<c32>cc< 
+v255 y11
+$EF $BF $52 $62
+r>@25 v0 c v215 cc   rrrr v255
+rr cc   r  ccc  
+r  cc  r cccc < y10 
+$EF $FF $52 $62
+]2 
+
+o4 y10 @23 
+[v240 c > v110c < v250 c > v110c < ]60
+
+v0 @25 rc v255 cccrcc
+rccrcrcc
+
+@21 o3 v240
+c2 @21c4 @21 c8 @25 y8 v0 c8 v160
+[c8]7c16
+v255 l64 y10 >
+ccrc
+v215  >
+[@29 c8]6 @29 c32 @25 o4 v255
+cccrcc<<
+@29 c32. @29 c32. @29 c32
+ 
+y10 l64
+[v145 @29 c32 o4 
+@22 v145 
+    c32<c32>cc< 
+c32>c32<c32>cc< 
+c32>c32<c32>cc< 
+c32>c32<c32>cc< 
+c32>c32<c32>cc< 
+v255 y11
+$EF $BF $52 $62
+r>@25 v0 c v185 cc   rrrr v225
+rr cc   r  ccc  
+r  cc  r cccc < y10 
+$EF $FF $52 $62
+]2
+[o4 v135 @29 c32
+@22 v255
+c32<c32>cc]16
+
+r8
+
+o4 y10 l64 
+@23 l64
+v255 c8 @23 c8 @23 c16 @23 c16 
+@23 c v0 @25 c v245 crccrc 
+[@22 v255 c > v145c < v255 c > v145c < ]52
+v105 $E8 $30 $FF
+@25 cccccccccccccccc
+
+
+
+
+
+
+
+
+ #5 
+
+v255  l32 y11
+
+[@22 o4 g ag 
+@25 >c16< @22 
+gagfgaf  
+@21 o2 c @22 o4 g
+@21 o2 c @22 o4 g
+@21 o2 c @22 o4 g
+ ]7
+@25 o4
+ccccc16rcrc
+c16c16c16cc
+l64 y9
+[v225 o1 @21 c o4 @23 v170 c v245 @22 c @23 v180 g]32 y10
+
+[v255 o3 @21 c o4 @23 v15 c v250 c v15 c ]60
+
+[v255 @21< c > @23 ccc]4
+$EE $82
+@0 l32 q7F v185 o5 
+r2^2r2^2r2^4^8 g-32.g-32.g-32
+
+l64 y9
+[v225 o1 @21 c o4 @23 v80 c v115 @22 c @23 v80 g]32
+[v245 o1 @21 c o4 @23 v170 c v235 @22 c @23 v170 g]32
+
+r8
+o4 y10 
+[v255 o3 @21 c o4 @23 v185 c v255 c v185 c ]60
+v215 $E8 $30 $FF
+@23 cccccccccccccccc
+
+
+
+
+
+
+
+ #7 
+
+@1 v160 l32 o5 y9 p20,50 ;
+
+$EE $59
+[d<bg->d<bg->d<bg->d<bg- v223 @0 y11 ererer > y9 v160 @1
+d<bg->d<bg->d<bg->d<bg-> v200 ererer v160]4
+y11
+[ l64 o3
+@22 v170 
+c32>c32<c32>cc< @22
+c32>c32<c32>cc< @22
+c32>c32<c32>cc< 
+c32>c32<c32>cc< 
+c32>c32<c32>cc< 
+v255 y12 @22
+rr> cc <<  cccc> ]1
+<cc>> cc <<  c >>  ccc < 
+<c >> cc <<  c >> cccc < y11 
+
+*1 v190
+y9 o5 @0 p30,50 
+v90 $E8 $10 $C0 
+ a-16  f16  e8
+$DD $0D $1B $97
+
+
+
+[
+q7F l8 @18 y9 p30,28
+o4
+$EE $59
+v70 $E8 $0C $B0
+g
+v70 $E8 $0C $B0
+a
+v70 $E8 $0C $B0
+b
+v80 $E8 $0C $C8
+$EE $5A
+g+ 
+$EE $59
+v90 $E8 $10 $C8
+d
+v90 $E8 $10 $C8
+e
+v90 $E8 $10 $C8
+f+4
+]4
+
+r2^2r2^2r2^2
+
+y11
+[ l64 o3
+@22 v170 
+c32>c32<c32>cc< 
+c32>c32<c32>cc< 
+c32>c32<c32>cc< 
+c32>c32<c32>cc< 
+c32>c32<c32>cc< 
+v205 y12 @22
+rr> cc <<  cccc> 
+<cc>> cc <<  c >>  ccc < 
+<c >> cc <<  c >> cccc < ]2
+
+[o3
+@22 v175 
+c32>c32<c32>cc< ]14
+
+v190
+y9 o5 @0 p30,50 
+v90 $E8 $10 $C0 
+ a-16  f16  e8
+$DD $0D $1B $97
+
+r8
+
+
+[
+q7F l8 @18 y9 p30,28
+o4
+$EE $59
+v70 $E8 $0C $B0
+g
+v70 $E8 $0C $B0
+a
+v70 $E8 $0C $B0
+b
+v80 $E8 $0C $C8
+$EE $5A
+g+ 
+$EE $59
+v90 $E8 $10 $C8
+d
+v90 $E8 $10 $C8
+e
+v90 $E8 $10 $C8
+f+4
+]4

@@ -1,0 +1,106 @@
+;-- HEADER AUTOMATICALLY GENERATED --
+$ED $80 $6D $2B 
+$ED $80 $7D $00 
+$F0
+;-- END OF HEADER -------------------
+
+
+
+;Spigmike's "attempt" at abridging "The Final Countdown by Europe" to make a sweet SMW theme
+
+#0  @1 q7f v255 y10 w255 t45
+$ED $6F $EF
+o5
+l16
+r4^8
+[c+<b>c+8^<rf+4
+r4^8
+>dc+drc+r<b4^8r4>dc+d4<f+4
+r4^8babrarg+rbra4^8>]2
+o4g+16a16b4^8a16b16>c+8<b8a8g+8f+4>d4r32c+4^8^^32c+8^d8^c+16<b16>c+1
+r4^8
+*2
+o4g+16a16b4^8a16b16>c+8<b8a8g+8f+4>d4r32c+4^8^^32c+8^d8^c+16<b16>c+1r1
+[r1]30
+
+
+
+#1  @1 q7f v200 y10
+$ED $49 $ED
+o4
+[c+1d1d1<b2b2>]2
+c+2e2e2d2f+1f1
+*2
+c+2e2e2d2f+1f1f+1r1^1
+v160
+[o4f+1e1f+1d2d2e1e1f+1f+1]2
+
+#5  @1 q7f v200 y10
+$ED $49 $ED
+o3
+[a1a1b1g+2g+2]2
+a2b2>c+2<a2>c+1c+1
+*2
+a2b2>c+2<a2>c+1c+1r1^1
+v160[o3d1c+1d1<b2b2b1>c+1d1c+1]2
+
+#6  @1 q7f v200 y10
+$ED $49 $ED
+o3
+[f+1f+1f+1e2f2]2
+f+2g+2a2f+2g+1g+1
+*2
+f+2g+2a2f+2g+1g+1f+1^1
+v160
+[o3b1a1a1g2f+2g1a1b1a1]2
+
+
+#2  @17 q7f v185 y12
+l16
+[r1]12
+p255,10
+o3
+[f+8f+16f+16f+8f+8f+8f+16f+16f+8f+8
+d8d16d16d8d8d8d16d16d8d8
+b8b16b16b8b8b8b16b16b8b8
+e8e16e16e8e8e8e16e16e8e8]2
+f+rf+f+f+rf+f+g+rg+g+g+rg+g+
+araaaraa>drdddrdd
+[c+rc+c+c+rc+c+]4f+1r1
+
+
+#4  @14 q7f v255 y8
+$ED $7D $8F
+o3
+[r1]26
+[f+32r8^32]5f+
+[a32r8^32]5a
+[a32r8^32]5a
+dddddddef+edc+edc+<a
+b4^8r2^8r2b4a4r1
+r8^brbr2^8
+>
+[f+32r8^32]5f+
+[a32r8^32]5a
+[a32r8^32]5a
+dddddddef+edc+edc+<a
+b4^8r2^8
+r1^1^1
+[r1]8
+
+
+#3  @21 q7f v255 y12
+o4
+[r1]11
+l16
+@21o3ggrgggrgggrg@10o4gr8^
+[@21o3grrg@10o4gr@21o3grgrrg@10o4gr@21o3gr]32
+
+#7  @22 q7f v255 y12
+[r1]12
+o4
+$ED $6F $EF
+[g4^8g8g2]12[g8ggg8rg]40
+
+
+
